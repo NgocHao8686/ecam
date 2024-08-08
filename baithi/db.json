@@ -1,0 +1,20 @@
+{
+  "products": [],
+  "users": [
+    {
+      "email": "datntph32282@fpt.edu.vn",
+      "password": "$2a$10$6S0QaL1qbL5SIC5zv/2neeE1ViAd5mP.UPfK2i9EU37OIwmsdhTLe",
+      "id": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$SrYzz6Kdui2ncXjAYTx2yuoC/LoaozTKCTgNwITKFEcppgv9QbmES",
+      "id": 2 
+    },
+    {
+      "email": "haonpnph32571@fpt.edu.vn",
+      "password": "$2a$10$RZMf4ATFZLkVlJBnWHYwne.81CPG5XjRNZB1nWoV4WNd0dYn4rx.a",
+      "id": 3
+    }
+  ]
+}
